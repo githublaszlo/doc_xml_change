@@ -1,0 +1,43 @@
+<root>
+	<customer_details>
+		<name>KIS LÁSZLÓ</name>
+		<birthday>1989-03-15T11:07:14.561Z</birthday>
+		<birthplace>Budapest</birthplace>
+		<customer_type>1</customer_type>
+		<address_data>
+			<postal_code>1138</postal_code>
+			<city>Budapest</city>
+			<street_address>Váci út 193.</street_address>
+		</address_data>
+	</customer_details>
+	<document_data>
+		<data_section1>
+			<data>Documentum Management</data>
+			<data>OOP</data>
+			<data>Clean Code</data>
+			<data>JUnit5</data>
+		</data_section1>
+		<table>
+			<row-data>
+				<value1>Java</value1>
+				<value2>A Java programozási nyelv alapos ismerete</value2>
+			</row-data>
+			<row-data>
+				<value1>SQL</value1>
+				<value2>Alapvető SQL utasítások és adatbáziskezelési műveletek</value2>
+			</row-data>
+			<row-data>
+				<value1>PowerShell</value1>
+				<value2>Egyszerű fájlmozgatáshoz és egyéb hétköznapi műveletekhez szükséges</value2>
+			</row-data>
+			<row-data>
+				<value1>Git</value1>
+				<value2>Verziókövetéssel kapcsolatos kézségek</value2>
+			</row-data>
+			<row-data>
+				<value1>Jira/Confluence</value1>
+				<value2>Jira és Confluence felhasználó szintű ismerete</value2>
+			</row-data>
+		</table>
+	</document_data>
+</root>
